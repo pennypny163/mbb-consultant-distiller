@@ -1,0 +1,10 @@
+{
+  "slug": "mbb-consultant-distiller",
+  "name": "MBB Consultant Distiller",
+  "version": "2.1.0",
+  "installedAt": 1777698015139,
+  "upgradedAt": 1746163000000,
+  "source": "skillhub",
+  "localOverride": true,
+  "upgradeNote": "v2.1: 增加模式B（主题生成）— 3步从零写报告，含框架自动匹配、web搜索填充、降级策略"
+}
