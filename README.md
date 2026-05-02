@@ -1,4 +1,4 @@
-# MBB Consultant Distiller
+# MBB Draft Distiller
 
 A WorkBuddy skill that transforms raw materials into McKinsey-style structured reports. Think of it as a senior consultant sitting next to you — feed it messy notes, and it outputs boardroom-ready deliverables.
 

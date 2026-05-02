@@ -1,5 +1,5 @@
 ---
-name: mbb-consultant-distiller
+name: mbb-draft-distiller
 agent_created: true
 description: |
   麦肯锡风格行业研究报告写作技能。帮助用户将零散的文档、笔记、访谈记录等素材，
